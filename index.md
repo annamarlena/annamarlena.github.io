@@ -38,6 +38,8 @@ This was a homework assignment for my first HTML/CSS class
 ## Mr. Goldfish
 A short animation I made using Adobe Animate
 
+<img src="goldfish.png" id="goldfish" />
+
 <a href="https://www.youtube.com/watch?v=Ojt1-hhV8xw">Mr. Goldfish</a>
 
 <hr>
