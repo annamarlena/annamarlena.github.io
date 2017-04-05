@@ -19,10 +19,14 @@ A simple Javascript game I made at Saint Paul College using Tumult Hype
 
 <a href="https://annamarlena.github.io/Minesweeper/">Minesweeper</a>
 
+<hr>
+
 ## H & H Contractors
 A bilingual website I recently built for a Canadian client
 
 <a href="https://annamarlena.github.io/HHContractors/">H & H Contractors</a>
+
+<hr>
 
 ## An Early Website Project
 This was a homework assignment for my first HTML/CSS class 
@@ -36,6 +40,8 @@ A short animation I made using Adobe Animate
 
 <a href="https://www.youtube.com/watch?v=Ojt1-hhV8xw">Mr. Goldfish</a>
 
+<hr>
+
 ## Bouncing Ball 
 A brief animation depicting 4 of the 12 principles of animation: Squash & Stretch, Arcs, Ease In/Ease Out, and Exaggeration.
 
@@ -47,3 +53,5 @@ A brief animation depicting 4 of the 12 principles of animation: Squash & Stretc
 
 annamarlena310@gmail.com <br>
 763-234-2926
+
+<hr>
