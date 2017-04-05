@@ -2,11 +2,9 @@
 
 I'm currently a student at Saint Paul College who will be graduating Spring 2017 with a degree in Computer Programming. Please check out some of my projects below. 
 
-# Resume
+## Resume
 
 <a href="https://annamarlena.github.io/Resume.pdf">Marlena's Resume</a>
-
-# Programming Projects
 
 ## Minesweeper
 A simple Javascript game I made at Saint Paul College using Tumult Hype
@@ -18,8 +16,6 @@ A bilingual website I recently built for a Canadian client
 
 <a href="https://annamarlena.github.io/HHContractors/">H & H Contractors</a>
 
-# Animation Projects
-
 ## Mr. Goldfish
 A short animation I made using Adobe Animate
 
@@ -30,7 +26,7 @@ A brief animation depicting 4 of the 12 principles of animation: Squash & Stretc
 
 <a href="https://www.youtube.com/watch?v=9efEvee4CCs">Bouncing Ball</a>
 
-# Contact Me
+## Contact Me
 
 annamarlena310@gmail.com <br>
 763-234-2926
