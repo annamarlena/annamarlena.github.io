@@ -1,14 +1,20 @@
 # Welcome to Marlena's GitHub Page
 
-I'm currently a student at Saint Paul College who will be graduating Spring 2017 with a degree in Computer Programming. Please check out some of my projects below. 
+I'm currently a student at Saint Paul College, graduating Spring 2017 with a degree in Computer Programming. Please check out some of my projects below. 
+
+<hr>
 
 <img src="headShot.jpg" id="headshot" />
+
+<hr>
 
 ## Resume
 
 <a href="https://annamarlena.github.io/Resume.pdf">Marlena's Resume</a>
+
 <hr>
-## Minesweeper
+
+## Minesweeper with Star Wars Theme
 A simple Javascript game I made at Saint Paul College using Tumult Hype
 
 <a href="https://annamarlena.github.io/Minesweeper/">Minesweeper</a>
@@ -22,7 +28,9 @@ A bilingual website I recently built for a Canadian client
 This was a homework assignment for my first HTML/CSS class 
 
 <a href="https://annamarlena.github.io/PetiteFranceBistro">Petite France Bistro</a>
+
 <hr>
+
 ## Mr. Goldfish
 A short animation I made using Adobe Animate
 
@@ -32,7 +40,9 @@ A short animation I made using Adobe Animate
 A brief animation depicting 4 of the 12 principles of animation: Squash & Stretch, Arcs, Ease In/Ease Out, and Exaggeration.
 
 <a href="https://www.youtube.com/watch?v=9efEvee4CCs">Bouncing Ball</a>
+
 <hr>
+
 ## Contact Me
 
 annamarlena310@gmail.com <br>
