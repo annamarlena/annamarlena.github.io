@@ -2,6 +2,8 @@
 
 I'm currently a student at Saint Paul College who will be graduating Spring 2017 with a degree in Computer Programming. Please check out some of my projects below. 
 
+<img src="headShot.jpg" id="headshot" />
+
 ## Resume
 
 <a href="https://annamarlena.github.io/Resume.pdf">Marlena's Resume</a>
