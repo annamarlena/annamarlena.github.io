@@ -18,5 +18,5 @@ A bilingual website I recently built for a Canadian client
 
 ## Contact Me
 
-Email: annamarlena310@gmail.com <br>
-Tel: 763-234-2926
+annamarlena310@gmail.com <br>
+763-234-2926
