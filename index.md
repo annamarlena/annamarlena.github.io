@@ -11,7 +11,7 @@ I'm currently a student at Saint Paul College who will be graduating in Spring 2
 ## Minesweeper
 A simple Javascript game I made at Saint Paul College
 
-Link to game here
+<a href="https://annamarlena.github.io/Minesweeper/">Minesweeper</a>
 
 ## Contact Me
 
