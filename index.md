@@ -6,7 +6,7 @@ I'm currently a student at Saint Paul College who will be graduating in Spring 2
 
 ## Resume
 
-Link to Resume Here
+<a href="https://annamarlena.github.io/Resume.pdf">Marlena's Resume</a>
 
 ## Minesweeper
 A simple Javascript game I made at Saint Paul College
