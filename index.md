@@ -16,6 +16,11 @@ A bilingual website I recently built for a Canadian client
 
 <a href="https://annamarlena.github.io/HHContractors/">H & H Contractors</a>
 
+## An Early Website Project
+This was a homework assignment for my first HTML/CSS class 
+
+<a href="https://annamarlena.github.io/PetiteFranceBistro">Petite France Bistro</a>
+
 ## Mr. Goldfish
 A short animation I made using Adobe Animate
 
