@@ -16,6 +16,11 @@ A bilingual website I recently built for a Canadian client
 
 <a href="https://annamarlena.github.io/HHContractors/">H & H Contractors</a>
 
+## Mr. Goldfish
+A short animation I made using Adobe Animate
+
+<a href="https://www.youtube.com/watch?v=Ojt1-hhV8xw">Mr. Goldfish</a>
+
 ## Contact Me
 
 annamarlena310@gmail.com <br>
