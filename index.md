@@ -25,6 +25,14 @@ A simple Javascript game I made at Saint Paul College using Tumult Hype.
 A bilingual website I recently built for a Canadian client.
 
 <a href="https://annamarlena.github.io/HHContractors/"><img src="kitchen.png" alt="kitchen" width="150" height="150" /></a>
+
+<hr>
+
+## Travel Website
+A (fake) travel website made as an assignment for Graphical Web Design class.
+
+<a href="">< img src="http://faketravelsite.businesscatalyst.com" alt="travel.png" width="150" height="150" /></a>
+
 <hr>
 
 ## An Early Website Project
