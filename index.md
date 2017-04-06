@@ -29,9 +29,9 @@ A bilingual website I recently built for a Canadian client.
 <hr>
 
 ## Travel Website
-A (fake) travel website made as an assignment for Graphical Web Design class.
+A travel website, made as an assignment for Graphical Web Design class.
 
-<a href="http://faketravelsite.businesscatalyst.com">< img src="travel.png" alt="travel" width="150" height="150" /></a>
+<a href="http://faketravelsite.businesscatalyst.com"><img src="travel.png" alt="travel image" width="150" height="150" /></a>
 
 <hr>
 
