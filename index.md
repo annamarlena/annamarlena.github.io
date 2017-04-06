@@ -22,7 +22,7 @@ A simple Javascript game I made at Saint Paul College using Tumult Hype.
 <hr>
 
 ## H & H Contractors
-A bilingual website I recently built for a Canadian client.
+A bilingual website I recently built for a Canadian client, using a free HTML5UP template. Currently in the final testing phases, will be going live soon.
 
 <a href="https://annamarlena.github.io/HHContractors/"><img src="kitchen.png" alt="kitchen" width="150" height="150" /></a>
 
