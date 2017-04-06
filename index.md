@@ -31,7 +31,7 @@ A bilingual website I recently built for a Canadian client
 ## An Early Website Project
 This was a homework assignment for my first HTML/CSS class 
 
-<a href="https://annamarlena.github.io/PetiteFranceBistro">Petite France Bistro</a>
+<a href="https://annamarlena.github.io/PetiteFranceBistro"><img src="coffee.jpg" id="coffee" width="150" height="150" /></a>
 
 <hr>
 
