@@ -45,7 +45,7 @@ A short animation I made using Adobe Animate
 ## Bouncing Ball 
 A brief animation depicting 4 of the 12 principles of animation: Squash & Stretch, Arcs, Ease In/Ease Out, and Exaggeration.
 
-<a href="https://www.youtube.com/watch?v=9efEvee4CCs">Bouncing Ball</a>
+<a href="https://www.youtube.com/watch?v=9efEvee4CCs"><img src="basketball.png" id="basketball" width="150" height="150" /></a>
 
 <hr>
 
