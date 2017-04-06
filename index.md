@@ -14,7 +14,7 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with a deg
 
 <hr>
 
-## Minesweeper (Star Wars Themed!)
+## Minesweeper Game
 A simple Javascript game I made at Saint Paul College using Tumult Hype
 
 <a href="https://annamarlena.github.io/Minesweeper/"><img src="flag.png" id="storm trooper" width="150" height="150" /></a>
