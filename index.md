@@ -22,7 +22,7 @@ A simple Javascript game I made at Saint Paul College using Tumult Hype.
 <hr>
 
 ## H & H Contractors
-A bilingual website I recently built for a Canadian client, using a free HTML5UP template. Currently in the final testing phases, will be going live soon.
+A bilingual website I recently built for a Canadian client, using a free HTML5UP template (which I edited heavily). Currently in the final testing phases, this site will be going live soon.
 
 <a href="https://annamarlena.github.io/HHContractors/"><img src="kitchen.png" alt="kitchen" width="150" height="150" /></a>
 
@@ -37,14 +37,14 @@ Made using Adobe Muse, for Graphical Web Design class.
 
 ## Portfolio Website
 Made using Adobe Muse, this site is still under construction, with more content being added on a regular basis. 
-I am currently working on making this site responsive.
+I'm currently working on making this site responsive.
 
 <a href="http://annamarlena.businesscatalyst.com"><img src="portfolio.png" alt="laptop image" width="150" height="150" /></a>
 
 <hr>
 
 ## An Early Website Project
-A homework assignment for my first HTML/CSS class, and one of the first websites I coded 100% from scratch. 
+A homework assignment for my first HTML/CSS class, and one of the first websites I built 100% from scratch. 
 All photographs are my own. 
 
 <a href="https://annamarlena.github.io/PetiteFranceBistro"><img src="coffee.jpg" alt="coffee" width="150" height="150" /></a>
