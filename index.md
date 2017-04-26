@@ -10,7 +10,7 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with an AA
 
 ## Resume
 
-<a href="https://annamarlena.github.io/Resume.pdf">Marlena's Resume</a>
+<a href="https://annamarlena.github.io/ResumeV2.pdf">Marlena's Resume</a>
 
 <hr>
 
