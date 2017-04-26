@@ -17,7 +17,7 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with an AA
 ## New! Space Invaders Game
 A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a bird-themed variation of Space Invaders.
 
-<a href="https://annamarlena.github.io/SpaceInvaders/"><img src="birds.png" alt="flying birds" width="150" height="150" /></a>
+<a href="https://annamarlena.github.io/SpaceInvaders/"><img src="birds.jpg" alt="flying birds" width="150" height="150" /></a>
 
 <hr>
 
