@@ -14,8 +14,15 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with an AA
 
 <hr>
 
+## New! Space Invaders Game
+A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a bird-themed variation of Space Invaders.
+
+<a href="https://annamarlena.github.io/SpaceInvaders/"><img src="birds.png" alt="flying birds" width="150" height="150" /></a>
+
+<hr>
+
 ## Minesweeper Game
-A simple Javascript game I made at Saint Paul College using Tumult Hype.
+A simple Star Wars themed Javascript game I made at Saint Paul College using Tumult Hype.
 
 <a href="https://annamarlena.github.io/Minesweeper/"><img src="flag.png" alt="storm trooper" width="150" height="150" /></a>
 
