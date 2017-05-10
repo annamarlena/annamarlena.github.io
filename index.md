@@ -17,7 +17,7 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with an AA
 ## New! Disco-Themed Slot Machine Game
 A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a disco-themed variation of a casino slot machine game.
 
-<a href="https://annamarlena.github.io/DiscoMania/"><img src="birds.jpg" alt="disco ball" width="150" height="150" /></a>
+<a href="https://annamarlena.github.io/DiscoMania/"><img src="discoMania.png" alt="disco ball" width="150" height="150" /></a>
 
 <hr>
 
