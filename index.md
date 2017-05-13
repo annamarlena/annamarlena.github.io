@@ -21,8 +21,6 @@ A Wordpress site I created for a fictional upscale restaurant. All visual conten
 
 <hr>
 
-<hr>
-
 ## New! Disco-Themed Slot Machine Game
 A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a disco-themed variation of a casino slot machine game. I had a lot of fun creating/editing images in GIMP. Enjoy!
 
