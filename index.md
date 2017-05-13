@@ -14,6 +14,15 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with an AA
 
 <hr>
 
+## New! Wordpress Site
+A Wordpress site I created for a fictional upscale restaurant. All visual content (images, etc) obtained through Creative Commons.
+
+<a href="https://peteseatsblog.wordpress.com/"><img src="discoMania.png" alt="wordpress site" width="150" height="150" /></a>
+
+<hr>
+
+<hr>
+
 ## New! Disco-Themed Slot Machine Game
 A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a disco-themed variation of a casino slot machine game. I had a lot of fun creating/editing images in GIMP. Enjoy!
 
