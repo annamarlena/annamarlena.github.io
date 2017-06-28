@@ -1,6 +1,6 @@
 # Welcome to Marlena's GitHub Page
 
-I'm currently a student at Saint Paul College, graduating Spring 2017 with an AAS degree in Computer Programming. My area of emphasis is Web Development, and I am also working toward earning a certificate in Web Design. Please check out some of my projects below. (Click on the image to view that project.)
+I'm a recent graduate of Saint Paul College with an AAS in Computer Programming/Web Development. Please check out some of my projects below. (Click on the image to view that project.)
 
 <hr>
 
@@ -10,7 +10,7 @@ I'm currently a student at Saint Paul College, graduating Spring 2017 with an AA
 
 ## Resume
 
-<a href="https://annamarlena.github.io/ResumeV2.pdf">Marlena's Resume</a>
+<a href="https://annamarlena.github.io/Resume2.pdf">Marlena's Resume</a>
 
 <hr>
 
