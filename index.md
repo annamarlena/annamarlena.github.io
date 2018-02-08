@@ -1,6 +1,6 @@
 # Welcome to Marlena's GitHub Page
 
-I'm a recent graduate of Saint Paul College with an AAS in Computer Programming/Web Development. Please check out some of my projects below. (Click on the image to view that project.)
+I'm a recent graduate of Saint Paul College with an AAS in Computer Programming, with an emphasis in Web Development. Please check out some of my projects below. (Click on the image to view that project.)
 
 <hr>
 
@@ -22,9 +22,17 @@ A bilingual website I recently built for a Canadian client.
 <hr>
 
 ## Travel Website
-Made using Adobe Muse, for Graphical Web Design class.
+Made using Adobe Muse.
 
 <a href="http://faketravelsite.businesscatalyst.com"><img src="travel.png" alt="travel image" width="150" height="150" /></a>
+
+<hr>
+
+## Portfolio Website
+Made using Adobe Muse, this site is still under construction, with more content being added on a regular basis. 
+I'm currently working on making this site responsive.
+
+<a href="http://annamarlena.businesscatalyst.com"><img src="portfolio.png" alt="laptop image" width="150" height="150" /></a>
 
 <hr>
 
@@ -49,14 +57,6 @@ A simple Star Wars themed Javascript game I made at Saint Paul College using Tum
 
 <hr>
 
-## Portfolio Website
-Made using Adobe Muse, this site is still under construction, with more content being added on a regular basis. 
-I'm currently working on making this site responsive.
-
-<a href="http://annamarlena.businesscatalyst.com"><img src="portfolio.png" alt="laptop image" width="150" height="150" /></a>
-
-<hr>
-
 ## Mr. Goldfish
 A short animation I made using Adobe Animate.
 
@@ -72,7 +72,7 @@ A brief animation depicting 4 of the 12 principles of animation: Squash & Stretc
 <hr>
 
 ## Disco-Themed Slot Machine Game
-A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a disco-themed variation of a casino slot machine game. I had a lot of fun creating/editing images in GIMP. This game does load a bit slowly, but is worth the wait. Enjoy!
+A simple Javascript game I made at Saint Paul College using Tumult Hype. This is a disco-themed variation of a casino slot machine game. I had a lot of fun creating/editing images in GIMP. This game does load a bit slowly, but it's worth the wait - Enjoy!
 
 <a href="https://annamarlena.github.io/DiscoMania/"><img src="discoMania.png" alt="disco ball" width="150" height="150" /></a>
 
