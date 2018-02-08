@@ -4,7 +4,7 @@ I'm a recent graduate of Saint Paul College with an AAS in Computer Programming/
 
 <hr>
 
-<img src="headShot.jpg" alt="Marlena headshot" />
+<img src="ProfilePic2.jpg" alt="Marlena headshot" />
 
 <hr>
 
