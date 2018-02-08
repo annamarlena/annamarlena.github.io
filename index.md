@@ -10,14 +10,14 @@ I'm a recent graduate of Saint Paul College with an AAS in Computer Programming/
 
 ## Resume
 
-<a href="https://annamarlena.github.io/Resume2.pdf">Marlena's Resume</a>
+<a href="https://annamarlena.github.io/Resume_2.8.18.pdf">Marlena's Resume</a>
 
 <hr>
 
 ## H & H Contractors
-A bilingual website I recently built for a Canadian client, using a free HTML5UP template (which I edited heavily). Currently in the final testing phases, this site will be going live soon.
+A bilingual website I recently built for a Canadian client. 
 
-<a href="https://annamarlena.github.io/HHContractors/"><img src="kitchen.png" alt="kitchen" width="150" height="150" /></a>
+<a href="http://www.contracteurshh.ca/"><img src="kitchen.png" alt="kitchen" width="150" height="150" /></a>
 
 <hr>
 
