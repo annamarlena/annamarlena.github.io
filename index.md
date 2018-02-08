@@ -1,6 +1,6 @@
 # Welcome to Marlena's GitHub Page
 
-I'm a recent graduate of Saint Paul College with an AAS in Computer Programming, with an emphasis in Web Development. Please check out some of my projects below. (Click on the image to view that project.)
+I'm a recent graduate of Saint Paul College with an AAS in Computer Programming/Web Development. Please check out some of my projects below. (Click on the image to view that project.)
 
 <hr>
 
