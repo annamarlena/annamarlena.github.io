@@ -21,12 +21,12 @@ A bilingual website I recently built for a Canadian client.
 
 <hr>
 
-// ## Travel Website
-// Made using Adobe Muse.
+## Travel Website
+Made using Adobe Muse.
 
-// <a href="http://faketravelsite.businesscatalyst.com"><img src="travel.png" alt="travel image" width="150" height="150" />// </a>
+<a href="http://faketravelsite.businesscatalyst.com"><img src="travel.png" alt="travel image" width="150" height="150" />// </a>
 
-// <hr>
+<hr>
 
 ## Portfolio Website
 Made using Adobe Muse, this site is still under construction, with more content being added on a regular basis. 
