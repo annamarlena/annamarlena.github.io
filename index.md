@@ -32,7 +32,7 @@ Made using Adobe Muse.
 Made using Adobe Muse, this site is still under construction, with more content being added on a regular basis. 
 I'm currently working on making this site responsive.
 
-<a href="http://annamarlena.businesscatalyst.com"><img src="portfolio.png" alt="laptop image" width="150" height="150" /></a>
+<a href="http://annamarlena01.businesscatalyst.com"><img src="portfolio.png" alt="laptop image" width="150" height="150" /></a>
 
 <hr>
 
