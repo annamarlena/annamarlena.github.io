@@ -24,7 +24,7 @@ A bilingual website I recently built for a Canadian client.
 ## Travel Website
 Made using Adobe Muse.
 
-<a href="http://faketravelsite01.businesscatalyst.com"><img src="travel.png" alt="travel image" width="150" height="150" />// </a>
+<a href="http://faketravelsite01.businesscatalyst.com"><img src="travel.png" alt="travel image" width="150" height="150" /> </a>
 
 <hr>
 
